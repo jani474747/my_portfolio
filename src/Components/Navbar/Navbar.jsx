@@ -57,7 +57,7 @@ const Navbar = () => {
 				<a href='https://himanshu-dwivedi.netlify.app/'>
 					<div className={styles.logo}>
 						<img
-							src='https://github.com/himrd95/portfolio/blob/main/src/assets/logo_new.png?raw=true'
+							src='https://us.123rf.com/450wm/wikagraphic/wikagraphic2010/wikagraphic201032493/157994480-js-letter-logo-in-a-circle-gold-and-silver-colored-vector-design-template-elements-for-your-business.jpg?ver=6'
 							alt='Logo'
 						/>
 					</div>

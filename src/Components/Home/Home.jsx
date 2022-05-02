@@ -110,7 +110,7 @@ const Home = ({ scrollRef }) => {
 					className={styles.profileImage}
 				>
 					<img
-						src='https://github.com/himrd95/me_Himanshu/blob/main/public/pic_without_background.jpg?raw=true'
+						src='https://github.com/jani474747/my_portfolio/blob/main/src/assets/prifile_backless.png?raw=true'
 						alt='Profile pic'
 					/>
 				</div>
